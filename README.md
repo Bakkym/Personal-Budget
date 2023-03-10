@@ -1,1 +1,8 @@
 # Personal-Budget
+## GET METHOD
+
+## POST METHOD
+
+## UPDATE METHOD
+
+## DELETE METHOD
